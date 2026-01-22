@@ -11,6 +11,7 @@ package paquete03;
 public class Pedido {
 
     public static int[][] obtenerPedidos() {
+        // Asigna valores al arreglo miPedidos del metodo main.
 
         int[][] pedidosCafeterias = {
             {120, 130, 125, 140, 135, 150, 145},

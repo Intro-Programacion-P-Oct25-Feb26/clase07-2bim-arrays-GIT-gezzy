@@ -11,7 +11,7 @@ package paquete02;
 public class Establecimiento {
     
     public static String [] obtenerCafeterias(){
-        
+        // Asigna valores al arreglo misCafeterias del metodo main.
         String [] cafeterias = {
             "Café Andino", "Café Pacífico", "Café Sierra", "Café Amazónico", 
             "Café Central", "Café Jardín", "Café Tec", "Café Rectorado"

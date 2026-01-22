@@ -11,6 +11,8 @@ package paquete03;
 public class Ubicacion {
     
     public static String [] obtenerUbicaciones(){
+        // Asigna valores al arreglo misSedes del metodo main.
+        
         String [] sedes = {"Bloque A - Biblioteca", "Bloque B - Laboratorios", 
             "Bloque C - Aulas", "Bloque D - Administración", 
             "Bloque E - Deportes", "Bloque F - Residencias", 

@@ -21,11 +21,10 @@ public class DemoEstructuras02 {
         ArrayList<String> edades2 = new ArrayList<>(edadesLista);
         System.out.println(edades);
         System.out.println(edades2);
-        
+
         for (int i = 0; i < edades2.size(); i++) {
             System.out.printf("%s\n", edades2.get(i));
         }
-       
 
     }
 }
